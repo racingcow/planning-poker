@@ -1,7 +1,5 @@
 <template name="home">
 <div style="height=1000px;" class="container">
-<div class="well">
 	Test
-</div>
 </div>
 </template>
