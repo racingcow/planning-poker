@@ -14,9 +14,17 @@
     ```bash 
     $ npm install -g meteorite
     ```
+    
+5. Update the smart.json packages using meteorite
 
-5. Run the app 
+    ```bash
+    $ mrt update
+    ```
+
+6. Run the app 
 
     ```bash 
     $ meteor
     ```
+
+7. Open a web browser and navigate to `http://localhost:3000`
